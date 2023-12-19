@@ -8,4 +8,4 @@ Welcome to the Exploratory Data Analysis (EDA) report based on the Airbnb datase
 
 ## Dataset Description
 The dataset consists of 3 CSV files:-
-1. listings.csv: 
+1. listings.csv: The files consist of apartment process, room types, host, and prices of properties. It consists of 3819 rows and 92 columns.
