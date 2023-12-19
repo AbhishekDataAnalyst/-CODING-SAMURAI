@@ -1,5 +1,5 @@
 # Exploratory Data Analysis (EDA) on Airbnb Listings Project
-Welcome to the Exploratory Data Analysis (EDA) report on the Seattle Airbnb dataset.
+Welcome to the Exploratory Data Analysis (EDA) report based on the Airbnb dataset of Seattle, Washington, US.
 
 ## Table of content
 
