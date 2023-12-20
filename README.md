@@ -10,7 +10,7 @@ Welcome to the Exploratory Data Analysis (EDA) report based on the Airbnb datase
 The dataset consists of 3 CSV files:-
 1. listings.csv: The files consist of the apartment process, room types, host, and prices of properties. It consists of 3819 rows and 92 columns.
 2. reviews.csv: The files contain at least 84k reviews regarding the property. It consists of 84850 rows and 6 columns.
-3. calender.csv: The files onatain
+3. calender.csv: The files contains information about occupancy and availability for 2873 listings every day from January 2016 to January 2017. It includes the listing ID, date, availability (t: available, f: occupied), and price. It consists of 934542 rows and 4 columns.
 
 ## Author
 [Abhishek Ramesh Shettigar]
