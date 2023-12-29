@@ -15,7 +15,12 @@ Founded in 2008, Airbnb is a global online marketplace that connects hosts offer
 
  In this project, we delve into the world of Airbnb listings in Seattle, WA, to uncover insights, trends, and patterns that are hidden within the data. By performing a thorough analysis, we aim to better understand the factors that influence pricing, occupancy, and customer reviews.
 
-## Dataset Description
+## Ask
+The ask phase is the start of the data analysis cycle, it involves clearly defining the scope of the project, the problem to be solved, and identifying stakeholders and stakeholder’s expectations by asking SMART (Specific, Measurable, Action-oriented, Relevant, Time-bound) questions.
+
+## Prepare
+This includes identifying the source of the information that will be utilized for the analysis, guaranteeing that the information source is dependable, unique, thorough, current and referred to, demonstrating the knowledge, ensuring that the information is liberated from any bias in the assortment of the information and, regarding each part of data ethics while dealing with the information.
+### Dataset Description
 The dataset consists of 3 CSV files:-
 1. listings.csv: The files consist of the apartment process, room types, host, and prices of properties. It consists of 3819 rows and 92 columns.
 2. reviews.csv: The files contain at least 84k reviews regarding the property. It consists of 84850 rows and 6 columns.
